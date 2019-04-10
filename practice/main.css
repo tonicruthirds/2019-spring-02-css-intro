@@ -1,0 +1,51 @@
+
+
+body{
+		font-family: "Trebuchet MS", Helvetica, sans-serif; /* I make the paragraph font treebuchet */
+	}
+
+#titleblock{
+		background-color: #F9F264; /* I make the code with the id titlebock yellow */
+    padding: 35px;
+	}
+
+#sectionheads {
+  padding-top: 20px
+}
+
+  img{
+    border: 10px solid #F9F264;
+    width: 25%;
+  }
+
+  hr {
+    display: block;
+    height: 0px;
+    border: 0;
+    border-top: 3px solid #000000;
+    padding: 0;
+}
+
+
+#footerblock{
+  	background-color: #333333; /* I make the code with the id titlebock yellow */
+    color: #FFFFFF;
+    padding: 25px;
+  }
+
+  a:link {
+  color: #FFFFFF;
+}
+
+ul {
+list-style-type: none;
+}
+
+ul li {
+    border-bottom: 1px solid #BEBEBE;
+    padding: 10px;
+}
+
+ol li {
+  padding: 7px;
+}
